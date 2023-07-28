@@ -1,0 +1,17 @@
+//Problems with pointer
+/*
+1.Uninitialized pointer
+2.Memory Leak 
+3.Dangling pointer
+*/
+
+//Uninitialized pointer
+/*
+int *p;
+*p=25
+
+Initialization method :-
+1.p=&x
+2.p=(int *)Ox5638;
+3.p=new int(5);
+*/
